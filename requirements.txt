@@ -1,23 +1,4 @@
-# Core
-streamlit==1.41.1
-numpy==1.26.4
-pandas==2.2.3
-scikit-learn==1.5.2
-joblib==1.4.2
-requests==2.32.3
-
-# TensorFlow (nightly CPU build with 3.13 wheels)
-tf-nightly-cpu==2.20.0.dev20250626
-
-# Visualization
-matplotlib==3.8.4
-altair==5.5.0
-pydeck==0.9.1
-rich==13.9.4
-
-# Model serialization / dependencies
-protobuf==4.25.3
-
-# (Optional if you really need these — but they often aren’t)
-# h5py==3.12.1
-# scipy==1.14.1
+streamlit 
+numpy
+pandas 
+joblib
