@@ -63,7 +63,7 @@ streamlit==1.41.1
 tenacity==9.0.0
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
-tf-nightly-cpu
+tf-nightly-cpu==2.20.0.dev20250702
 termcolor==2.5.0
 threadpoolctl==3.5.0
 toml==0.10.2
